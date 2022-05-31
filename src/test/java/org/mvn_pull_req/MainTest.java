@@ -8,6 +8,6 @@ class MainTest {
     public void testSecti()
     {
         int sum = Main.sectiCisla(1,1);
-        Assertions.assertEquals(3,sum);
+        Assertions.assertEquals(2,sum);
     }
 }
